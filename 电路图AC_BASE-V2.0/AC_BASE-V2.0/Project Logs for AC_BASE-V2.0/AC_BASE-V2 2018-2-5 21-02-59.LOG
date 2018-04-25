@@ -1,0 +1,20 @@
+Added Component: Designator=Q1(SOT-23_N)
+Added Component: Designator=Q2(SOT-23_N)
+Added Component: Designator=Q3(SOT-23_N)
+Added Component: Designator=Q4(SOT-23_N)
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q4-3
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component Q1 BC817
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component Q2 BC817
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component Q3 BC817
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component Q4 BC817

@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [AC_BASE-V2.0.PrjPcb]
+   Generated File[AC_BASE-V2.0.RUL]
+   Generated File[AC_BASE-V2.0.EXTREP]
+   Generated File[AC_BASE-V2.0.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:19:46 On 2018/3/4

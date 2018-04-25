@@ -1,0 +1,17 @@
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~125|Field=Value~String~Value~103|Field=Footprint~String~Footprint~267|Field=Quantity~Integer~Quantity~255|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~AC_BASE-V2.0.PrjPcb|ReportField=ProjectFullPath~E:\项目三自动充电\AC_BASE-V2.0\AC_BASE-V2.0\AC_BASE-V2.0.PrjPcb|ReportField=Title~Bill of Materials For Project [AC_BASE-V2.0.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~27|ReportField=ReportTime~17:29:25|ReportField=ReportDate~2018/3/3|ReportField=ReportDateTime~2018/3/3 17:29:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2018/3/3|ReportField=CurrentTime~17:28:49|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\项目三自动充电\AC_BASE-V2.0\AC_BASE-V2.0\AC_BASE-V2.0.SchDoc|ReportField=DocumentName~AC_BASE-V2.0.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2018/2/26|ReportField=Organization~|ReportField=ProjectName~AC_BASE-V2.0.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~AC_BASE-V2.0.PrjPcb|ReportField=DataSourceFullPath~E:\项目三自动充电\AC_BASE-V2.0\AC_BASE-V2.0\AC_BASE-V2.0.PrjPcb
+1|P1|XH2.54-4|XH2.54-4P|1
+2|P3|XH2.54-2|XH2.54-2P|1
+3|S1, S2|XH2.54-2|XH2.54-2P|2
+4|U2|STM32F103C8T6_MODULE|STM32F103C8T6_MODE|1
+5|P2|SIP4-6.3|PORT-SIP4-6.3-WA-LOCK|1
+6|D1|LED-H-R2.54|LED-H-R2.54|1
+7|U1|DCDC-50/5|DCDC50/5|1
+8|Q1, Q2, Q3, Q4|BC817|SOT-23_N|4
+9|U4|ACS712ELCTR-30A|ACS712-SOIC8|1
+10|R2|200R|R0805|1
+11|C10|100nF|C0805|1
+12|R4|100K  0.1%|R0805|1
+13|R1, R3|33R|R0805|2
+14|R8, R10, R11|10K  0.1%|R0805|3
+15|C9|1nF|C0805|1
+16|R5, R6, R7, R9, R14|1K|R0805|5

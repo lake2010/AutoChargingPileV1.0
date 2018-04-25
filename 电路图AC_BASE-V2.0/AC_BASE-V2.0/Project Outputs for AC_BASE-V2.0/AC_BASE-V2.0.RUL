@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: E:\项目三自动充电\AC_BASE-V2.0\AC_BASE-V2.0\AC_BASE-V2.0.PcbDoc
+RuleKind=Clearance|RuleName=InPolygon|Scope=Board|Minimum=40.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

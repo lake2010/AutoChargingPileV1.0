@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=IR_SEND Pin=U2-29
+Added Pin To Net: NetName=IR_SEND Pin=U2-35

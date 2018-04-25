@@ -1,0 +1,101 @@
+Added Component: Designator=D1(LED0805)
+Added Component: Designator=D2(LED0805)
+Added Component: Designator=P1(XH2.54-4P)
+Added Component: Designator=P2(PORT-SIP4-6.3-LOCK)
+Added Component: Designator=P3(XH2.54-2P)
+Added Component: Designator=R1(R0603)
+Added Component: Designator=R2(R0603)
+Added Component: Designator=R3(R0603)
+Added Component: Designator=R4(R0603)
+Added Component: Designator=R5(R0603)
+Added Component: Designator=R6(R0603)
+Added Component: Designator=R7(R0603)
+Added Component: Designator=R8(R0603)
+Added Component: Designator=R9(R0603)
+Added Component: Designator=R10(R0603)
+Added Component: Designator=R11(R0603)
+Added Component: Designator=R12(R0603)
+Added Component: Designator=R13(R0603)
+Added Component: Designator=R14(R0805)
+Added Component: Designator=R15(R0603)
+Added Component: Designator=R16(R0805)
+Added Component: Designator=S1(XH2.54-2P)
+Added Component: Designator=S2(XH2.54-2P)
+Added Component: Designator=S3(XH2.54-2P)
+Added Component: Designator=S4(XH2.54-2P)
+Added Component: Designator=U1(LM2596_MODEL8)
+Added Component: Designator=U2(STM32F103C8T6_modify)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R1-1
+Added Pin To Net: NetName=NetP1_4 Pin=R1-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R2-1
+Added Pin To Net: NetName=NetP1_3 Pin=R2-2
+Added Pin To Net: NetName=NetQ3_3 Pin=R3-1
+Added Pin To Net: NetName=NetP1_2 Pin=R3-2
+Added Pin To Net: NetName=IR_L Pin=R5-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Pin To Net: NetName=IR_M Pin=R6-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R6-2
+Added Pin To Net: NetName=IR_R Pin=R7-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=IR_SEND Pin=R9-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R9-2
+Added Pin To Net: NetName=KEY1 Pin=R10-1
+Added Pin To Net: NetName=KEY2 Pin=R11-1
+Added Pin To Net: NetName=RELAY Pin=R15-1
+Added Pin To Net: NetName=VCC_3V3 Pin=R16-2
+Added Pin To Net: NetName=KEY1 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=KEY2 Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=IR_L Pin=U2-2
+Added Pin To Net: NetName=IR_M Pin=U2-3
+Added Pin To Net: NetName=IR_R Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=VCC_3V3 Pin=U2-20
+Added Pin To Net: NetName=RELAY Pin=U2-24
+Added Pin To Net: NetName=IR_SEND Pin=U2-29
+Added Pin To Net: NetName=KEY3 Pin=R12-1
+Added Pin To Net: NetName=KEY3 Pin=S3-1
+Added Net: Name=KEY3
+Added Pin To Net: NetName=KEY4 Pin=R13-1
+Added Pin To Net: NetName=KEY4 Pin=S4-1
+Added Net: Name=KEY4
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R15-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=RELAY_POWER Pin=P2-3
+Added Net: Name=RELAY_POWER
+Added Pin To Net: NetName=RUN Pin=R14-2
+Added Pin To Net: NetName=RUN Pin=U2-17
+Added Net: Name=RUN
+Added Pin To Net: NetName=TOUCHER_VOLTAGE_SENSOR Pin=R4-2
+Added Pin To Net: NetName=TOUCHER_VOLTAGE_SENSOR Pin=R8-1
+Added Pin To Net: NetName=TOUCHER_VOLTAGE_SENSOR Pin=U2-6
+Added Net: Name=TOUCHER_VOLTAGE_SENSOR
+Added Pin To Net: NetName=VCC_5V Pin=P1-1
+Added Pin To Net: NetName=VCC_5V Pin=R10-2
+Added Pin To Net: NetName=VCC_5V Pin=R11-2
+Added Pin To Net: NetName=VCC_5V Pin=R12-2
+Added Pin To Net: NetName=VCC_5V Pin=R13-2
+Added Pin To Net: NetName=VCC_5V Pin=U1-2
+Added Pin To Net: NetName=VCC_5V Pin=U2-19
+Added Net: Name=VCC_5V
+Added Pin To Net: NetName=VCC_IN+ Pin=P2-2
+Added Pin To Net: NetName=VCC_IN+ Pin=R4-1
+Added Pin To Net: NetName=VCC_IN+ Pin=U1-1
+Added Net: Name=VCC_IN+
+Added Class: Name=AC_BASE-V2.0
+Added Room: Name=AC_BASE-V2.0

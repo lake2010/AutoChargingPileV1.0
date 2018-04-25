@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC_5V Pin=R12-2
+Removed Pin From Net: NetName=VCC_5V Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Pin From Net: NetName=GND Pin=S4-2
+Removed Member From Class: ClassName=AC_BASE-V2.0 Member=R12
+Removed Member From Class: ClassName=AC_BASE-V2.0 Member=R13
+Removed Member From Class: ClassName=AC_BASE-V2.0 Member=S3
+Removed Member From Class: ClassName=AC_BASE-V2.0 Member=S4
+Added Room: Name=AC_BASE-V2.0

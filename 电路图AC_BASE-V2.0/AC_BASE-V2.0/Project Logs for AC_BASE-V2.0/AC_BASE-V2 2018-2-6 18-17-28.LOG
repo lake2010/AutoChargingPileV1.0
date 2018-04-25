@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=VCC_IN+ Pin=P2-2
+Removed Pin From Net: NetName=VCC_IN+ Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P2-4
+Change Component Footprint: Designator=D1 Old Footprint=LED0805 New Footprint=LED-H-R2.54
+Added Component: Designator=C9(C0805)
+Added Component: Designator=C10(C0805)
+Added Component: Designator=U4(ACS712-SOIC8)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC_5V Pin=C10-2
+Added Pin To Net: NetName=VCC_IN+ Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=VCC_IN+ Pin=U4-1
+Added Pin To Net: NetName=VCC_IN+ Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=VCC_5V Pin=U4-8
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=U4-6
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=RELAY_POWER Pin=P2-4
+Added Pin To Net: NetName=RELAY_POWER Pin=U4-3
+Added Pin To Net: NetName=RELAY_POWER Pin=U4-4
+Added Net: Name=RELAY_POWER
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component C9 Cap
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component C10 Cap
+Added Member To Class: ClassName=AC_BASE-V2.0 Member=Component U4 ACS712ELCTR-30A
